@@ -4,7 +4,7 @@ Created a high fidelity click-through prototype in order to explore how to use c
 Student life is often synonymous with strict budgeting. Gadgets like laptops, tablets, mobile phones are essential for a student in order to gain hands-on experience and knowledge besides the prescribed textbooks. The findings from our research threw light on the difficulties faced by students in need, in acquiring items that would help their studies, presentations and in laying road to a successful career.From our needfinding research, we found that the lack of a proper budget-friendly online store is a real issue as students are forced to scour the social media platforms for their needs.
 # Design Goals
 ![Design Goals](Picture1.png)
-Format: ![Design goals](https://github.com/sharr23/Human-centered-design/blob/master/Picture1.png)
+
 # Prototype
 After going  through the multiple trials of solution evaluation and validation to select the best of the conceptual models, mobile application turned out to be the most feasible and the best interface that can meet the defined usability and design goals.
 The live prototype of our app can be found in the link below:
